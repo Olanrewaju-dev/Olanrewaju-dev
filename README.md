@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ola
-- 👀 I’m interested in buidling web applications to solve business problems
+- 👀 I love to build web applications to solve business problems
 - 📫 You can reach me via: olanrewaju20@gmail.com
 
 <!---
