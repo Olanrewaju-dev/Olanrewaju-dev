@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ola
 - 👀 I love to build web applications to solve business problems
 
-- In the last 5 years, I've worked in roles such as digital analyst, social media manager and digital advertising. I am focused on growing a career as a full-stack software engineer. I am eager to tackle complex problems and passionate about learning from senior colleagues and help newbies.
+- I am a tech enthusiast! I love building and managing commercialisable tools and solutions such as websites and mobile apps. In the last 8 years, I've worked in different programming and non-programming roles in tech such as social media management, programmatic advertising, SEO, web analytics, web design (WordPress), web development (MERN stack) and graphics design. This is what I'm passionate about. 💪
 
 <!---
 Olanrewaju-dev/Olanrewaju-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
