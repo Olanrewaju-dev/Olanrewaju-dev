@@ -11,7 +11,7 @@ I'm first a Software Engineer but I've worked in different roles such as design,
 - 🌱 I’m on the Backend track where I'm solidifying my knowledge of Node and Python.
 - 😊 I’m looking for help with open-source projects, hackathons, remote internships, and opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
-- 📫 You can [view my resume](https://www.canva.com/design/DAFNNcxbMng/DXkIZIFn0wzCdFB5afJnDw/view?utm_content=DAFNNcxbMng&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) and contact me by emailing olanrewaju20@gmail.com.
+- 📫 You can [view my resume](https://www.canva.com/design/DAFNNcxbMng/kBNFkzdmz72OGIyPMXrdbA/edit?utm_content=DAFNNcxbMng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and contact me by emailing olanrewaju20@gmail.com.
 
 ---
 
