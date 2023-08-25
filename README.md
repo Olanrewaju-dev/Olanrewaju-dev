@@ -13,7 +13,3 @@ I'm first a Software Engineer but I've worked in different roles such as design,
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
 - 📫 You can [view my resume](https://www.canva.com/design/DAFNNcxbMng/kBNFkzdmz72OGIyPMXrdbA/edit?utm_content=DAFNNcxbMng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and contact me by emailing olanrewaju20@gmail.com.
 
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=olanrewaju-dev&show_icons=true&include_all_commits=true&hide_border=true" alt="Olanrewaju's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olanrewaju-dev&langs_count=8&layout=compact&hide_border=true" alt="Olanrewaju's GitHub stats" /> |
-| ------------- | ------------- |
